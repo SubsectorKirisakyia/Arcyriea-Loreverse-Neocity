@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The project is intended to build a static page to upload and applies to Arcyriea's Neocity Landing Page, currently under development... Target of application: https://arcyriea-loreverse.neocities.org/
 
 ## Getting Started
 
