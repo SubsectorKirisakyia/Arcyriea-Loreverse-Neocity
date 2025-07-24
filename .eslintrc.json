@@ -1,0 +1,8 @@
+{
+  "extends": ["next", "next/core-web-vitals"],
+  "plugins": ["tailwindcss", "jsx-a11y", "react", "react-hooks"],
+  "rules": {
+    "tailwindcss/classnames-order": "warn",
+    "react/react-in-jsx-scope": "off"
+  }
+}
