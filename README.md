@@ -1,3 +1,9 @@
+Builder project for the /library section of my https://arcyriea-loreverse.neocities.org/ website.
+
+My Vtuber model is still in the work - Arcyriea
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
