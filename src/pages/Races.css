@@ -1,0 +1,38 @@
+.races-page {
+  padding: 40px 32px;
+  max-width: 1126px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.races-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.race-card {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px;
+  transition: transform 0.2s, box-shadow 0.2s;
+
+  h3 {
+    margin: 0 0 8px;
+    font-size: 20px;
+    color: var(--accent);
+  }
+
+  &:hover {
+    transform: translateX(4px);
+    box-shadow: var(--shadow);
+  }
+}
+
+.race-lore {
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.6;
+}

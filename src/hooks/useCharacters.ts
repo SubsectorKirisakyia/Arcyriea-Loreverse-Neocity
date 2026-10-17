@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { apiClient } from '../services/apiClient';
-import { Character } from '../types/lore';
+import type { Character } from '../types/lore';
 
 export const useCharacters = () => {
   const [data, setData] = useState<Character[]>([]);

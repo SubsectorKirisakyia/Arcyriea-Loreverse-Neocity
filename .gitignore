@@ -28,3 +28,4 @@ Claude.md
 .aider*
 .env
 .env*.local
+.github/copilot-instructions.md
